@@ -42,4 +42,4 @@ yarn dev
 
 ### 📄 License
 
-- [MIT](https://github.com/sal-rosa/backend-tool-box-virtual/blob/main/LICENSE)
+- [MIT](https://github.com/sal-rosa/frontend-tool-box-virtual/blob/main/License)
