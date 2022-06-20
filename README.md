@@ -12,7 +12,6 @@ The following tools were used in building the project:
 
 - [Nodejs](https://nodejs.org/en/)
 - [Next.js](https://nextjs.org/)
-- [NestJs](https://nestjs.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [daisyUI](https://daisyui.com/)
 - [TypeScript](https://www.typescriptlang.org/)
