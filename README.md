@@ -28,7 +28,9 @@ The following tools were used in building the project:
 ## Installation
 
 ```bash
-$ npm install
+npm install
+or
+yarn install
 ```
 
 ## Running the app
