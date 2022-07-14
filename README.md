@@ -29,7 +29,7 @@ The following tools were used in building the project:
 
 ```bash
 npm install
-or
+# or
 yarn install
 ```
 
